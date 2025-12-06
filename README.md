@@ -4,25 +4,19 @@
 
 - `sm8650_v1`
 
-| Device (public codename) (codename)                                | Tested |
-| ------------------------------------------------------------------ | ------ |
-| ZTE nubia Z60 Ultra (`nx721j` `pq83a01`) (`cerro`)                 | [v]    |
-| ZTE nubia Z60 Ultra Leading Edition (`nx721j` `pq83a01`) (`cerro`) | [v]    |
-| ZTE nubia Red Magic 9 Pro (`nx769j`) (`tiro`)                      | [v]    |
-| ZTE nubia Red Magic 9S Pro (`nx769j`) (`tiro`)                     | [v]    |
+| Device (public codename) (codename)                                |
+| ------------------------------------------------------------------ |
+| ZTE nubia Z60 Ultra (`nx721j` `pq83a01`) (`cerro`)                 |
+| ZTE nubia Z60 Ultra Leading Edition (`nx721j` `pq83a01`) (`cerro`) |
+| ZTE nubia Red Magic 9 Pro (`nx769j`) (`tiro`)                      |
+| ZTE nubia Red Magic 9S Pro (`nx769j`) (`tiro`)                     |
 
 - `sm8650_v2`
 
-| Device (public codename) (codename)        | Tested |
-| ------------------------------------------ | ------ |
-| ZTE nubia Pad Pro (`nt01` `pq83p02`) (`?`) | [v]    |
-| ZTE nubia RedMagic Nova (`np03j`) (`?`)    | [v]    |
-
-```
-[v] = Tested and working
-[x] = Not working
-[?] = Unknown status
-```
+| Device (public codename) (codename)              |
+| ------------------------------------------------ |
+| ZTE nubia Pad Pro (`nt01` `pq83p02`) (`qvanise`) |
+| ZTE nubia RedMagic Nova (`np03j`) (`panax`)      |
 
 ## Usage
 
